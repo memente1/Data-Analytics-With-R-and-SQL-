@@ -1,0 +1,3 @@
+As a Statistical Analyst, I was approached by a healthcare facility grappling with an alarmingly high 30-day readmission rate, exceeding 13%. This strains their resources and highlights potential gaps in patient care. The facility aims to reduce this rate to as low as 5% by leveraging predictive analytics to understand and address the root causes of readmissions.
+
+Their vision is to create a healthcare system that significantly reduces patient readmissions through proactive measures. By identifying which patients are at high risk of readmission, top management believes they can implement targeted interventions to improve patient outcomes and reduce readmission rates.
